@@ -113,7 +113,4 @@ Input Validation Checklist (Refined for Developer & Tester Teams)
 - [ ] Rate limiting implemented on sensitive endpoints.
 - [ ] Validation logic reviewed for consistency and completeness.
 
----
-
-Deploy this checklist as a living document—review and update regularly based on new threats, business changes, and lessons learned from incidents.
 
